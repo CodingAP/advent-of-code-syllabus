@@ -1,22 +1,20 @@
 const fs = require('fs');
+const template = fs.readFileSync('./scripts/template').toString();
 
 let createDay = async (day, year) => {
     let dir = `./years/${year}/day${day}`;
     if (!fs.existsSync(dir)) fs.mkdirSync(dir);
 
-    fs.writeFile(dir + '/README.md', '## Nothing Yet', (err) => {
+    let currentMD = template.replace(/\$day\$/g, day).replace(/\$year\$/g, year);
+
+    fs.writeFile(dir + '/part1.md', currentMD.replace(/\$part\$/g, 1), (err) => {
         if (err) throw err;
-        console.log(`Saved the README of day ${day}, year ${year}!`);
+        console.log(`Saved the markdown file of day ${day}, part 1, year ${year}!`);
     });
 
-    fs.writeFile(dir + '/part1.txt', '', (err) => {
+    fs.writeFile(dir + '/part2.md', currentMD.replace(/\$part\$/g, 2), (err) => {
         if (err) throw err;
-        console.log(`Saved the README of day ${day}, year ${year}!`);
-    });
-
-    fs.writeFile(dir + '/part2.txt', '', (err) => {
-        if (err) throw err;
-        console.log(`Saved the README of day ${day}, year ${year}!`);
+        console.log(`Saved the markdown file of day ${day}, part 2, year ${year}!`);
     });
 }
 

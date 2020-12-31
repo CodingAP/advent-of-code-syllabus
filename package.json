@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "The Advent of Code Syllabus that not only explains each puzzle, but helps users learn more about computer science!",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^2.0.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

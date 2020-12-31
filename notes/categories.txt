@@ -1,0 +1,9 @@
+lists operations
+string operations
+virtualization
+math
+permutation
+graphs
+cellular automata
+pathfinding
+parsing
