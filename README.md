@@ -55,7 +55,7 @@ Finally, as mentioned before, there will be some files that may be included with
 - If all else fails, either take a break and come back to it later, or get some help. The subreddit is a great place to ask, and what this syllabus tries to help with.
 
 ## Status
-Currently, there are no explanations on any of the puzzles.
+Currently, there is one puzzle as a prove of concept (2020 day 1)
 
 ## Table of Contents
 
