@@ -1,7 +1,7 @@
 # Advent of Code 2020 - Day 1, Part 1
 
 ## Summary
-summary
+The problem is to find two numbers in the input list that add up to 2020. After find those two, you would multiply them to get the answer you would submit.
 
 ## General Tips
 - Test often, and test with the examples
@@ -12,7 +12,6 @@ summary
 
 ## Specific Tips (SPOILERS)
 <details> <summary>Spoiler warning!</summary>
-
-specific tips
-
+- Try thinking about how to match each element with every other one and see what the result would be if you added them
+- Since it is addition, you can try the opposite to find the number it would need to add to 2020 (ex. 2020 - 1721 = 299, like the example)
 </details>

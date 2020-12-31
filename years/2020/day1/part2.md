@@ -1,7 +1,7 @@
 # Advent of Code 2020 - Day 1, Part 2
 
 ## Summary
-summary
+Similarly to part 1, the problem is to find *three* numbers in the input list that add up to 2020. After find those, you would multiply them all together for the answer you would submit.
 
 ## General Tips
 - Test often, and test with the examples
@@ -12,7 +12,5 @@ summary
 
 ## Specific Tips (SPOILERS)
 <details> <summary>Spoiler warning!</summary>
-
-specific tips
-
+- Like part 1, find a way to match every element to two others and see the result
 </details>
