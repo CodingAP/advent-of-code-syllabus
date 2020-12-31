@@ -1,5 +1,8 @@
 # Advent of Code 2020 - Day 19, Part 1
 
+[Link to Puzzle](https://adventofcode.com/2020/day/19)
+[Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2020/day19/part2.md)
+
 ## Summary
 summary
 

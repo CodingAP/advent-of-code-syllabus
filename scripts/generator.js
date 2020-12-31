@@ -7,12 +7,12 @@ let createDay = async (day, year) => {
 
     let currentMD = template.replace(/\$day\$/g, day).replace(/\$year\$/g, year);
 
-    fs.writeFile(dir + '/part1.md', currentMD.replace(/\$part\$/g, 1), (err) => {
+    fs.writeFile(dir + '/part1.md', currentMD.replace(/\$part\$/g, 1).replace(/\$urlpart\$/g, '').replace(/\$textpart\$/g, 'Next').replace(/\$numberpart\$/g, '2'), (err) => {
         if (err) throw err;
         console.log(`Saved the markdown file of day ${day}, part 1, year ${year}!`);
     });
 
-    fs.writeFile(dir + '/part2.md', currentMD.replace(/\$part\$/g, 2), (err) => {
+    fs.writeFile(dir + '/part2.md', currentMD.replace(/\$part\$/g, 2).replace(/\$urlpart\$/g, '#part2').replace(/\$textpart\$/g, 'Previous').replace(/\$numberpart\$/g, '1'), (err) => {
         if (err) throw err;
         console.log(`Saved the markdown file of day ${day}, part 2, year ${year}!`);
     });

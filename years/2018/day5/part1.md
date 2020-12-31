@@ -1,5 +1,8 @@
 # Advent of Code 2018 - Day 5, Part 1
 
+[Link to Puzzle](https://adventofcode.com/2018/day/5)
+[Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2018/day5/part2.md)
+
 ## Summary
 summary
 

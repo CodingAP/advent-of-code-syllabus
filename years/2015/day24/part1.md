@@ -1,5 +1,8 @@
 # Advent of Code 2015 - Day 24, Part 1
 
+[Link to Puzzle](https://adventofcode.com/2015/day/24)
+[Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2015/day24/part2.md)
+
 ## Summary
 summary
 

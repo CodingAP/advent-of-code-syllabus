@@ -1,5 +1,8 @@
 # Advent of Code 2019 - Day 25, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2019/day/25#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2019/day25/part1.md)
+
 ## Summary
 summary
 

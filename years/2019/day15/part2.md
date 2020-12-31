@@ -1,5 +1,8 @@
 # Advent of Code 2019 - Day 15, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2019/day/15#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2019/day15/part1.md)
+
 ## Summary
 summary
 

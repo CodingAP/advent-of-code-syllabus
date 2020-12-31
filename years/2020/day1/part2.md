@@ -1,5 +1,8 @@
 # Advent of Code 2020 - Day 1, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2020/day/1#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2020/day1/part1.md)
+
 ## Summary
 Similarly to part 1, the problem is to find *three* numbers in the input list that add up to 2020. After find those, you would multiply them all together for the answer you would submit.
 

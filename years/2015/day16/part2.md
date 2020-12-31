@@ -1,5 +1,8 @@
 # Advent of Code 2015 - Day 16, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2015/day/16#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2015/day16/part1.md)
+
 ## Summary
 summary
 

@@ -1,5 +1,8 @@
 # Advent of Code 2020 - Day 8, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2020/day/8#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2020/day8/part1.md)
+
 ## Summary
 summary
 

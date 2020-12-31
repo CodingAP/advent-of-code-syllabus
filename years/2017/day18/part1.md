@@ -1,5 +1,8 @@
 # Advent of Code 2017 - Day 18, Part 1
 
+[Link to Puzzle](https://adventofcode.com/2017/day/18)
+[Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2017/day18/part2.md)
+
 ## Summary
 summary
 

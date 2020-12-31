@@ -1,5 +1,8 @@
 # Advent of Code 2016 - Day 10, Part 2
 
+[Link to Puzzle](https://adventofcode.com/2016/day/10#part2)
+[Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2016/day10/part1.md)
+
 ## Summary
 summary
 

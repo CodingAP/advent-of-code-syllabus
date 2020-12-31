@@ -1,7 +1,10 @@
 # Advent of Code 2020 - Day 1, Part 1
 
+[Link to Puzzle](https://adventofcode.com/2020/day/1)
+[Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2020/day1/part2.md)
+
 ## Summary
-The problem is to find two numbers in the input list that add up to 2020. After find those two, you would multiply them to get the answer you would submit.
+The problem is to find two numbers in the input list that add up to 2020. After finding those two, you would multiply them to get the answer you would submit.
 
 ## General Tips
 - Test often, and test with the examples
