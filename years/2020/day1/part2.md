@@ -16,5 +16,7 @@ Similarly to part 1, the problem is to find *three* numbers in the input list th
 
 ## Specific Tips (SPOILERS)
 <details> <summary>Spoiler warning!</summary>
+
 - Like part 1, find a way to match every element to two others and see the result
+
 </details>
