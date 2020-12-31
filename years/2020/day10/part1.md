@@ -1,6 +1,7 @@
 # Advent of Code 2020 - Day 10, Part 1
 
 [Link to Puzzle](https://adventofcode.com/2020/day/10)
+
 [Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2020/day10/part2.md)
 
 ## Summary

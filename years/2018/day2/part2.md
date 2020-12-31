@@ -1,6 +1,7 @@
 # Advent of Code 2018 - Day 2, Part 2
 
 [Link to Puzzle](https://adventofcode.com/2018/day/2#part2)
+
 [Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2018/day2/part1.md)
 
 ## Summary

@@ -1,6 +1,7 @@
 # Advent of Code 2019 - Day 5, Part 1
 
 [Link to Puzzle](https://adventofcode.com/2019/day/5)
+
 [Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2019/day5/part2.md)
 
 ## Summary

@@ -1,6 +1,7 @@
 # Advent of Code 2015 - Day 23, Part 2
 
 [Link to Puzzle](https://adventofcode.com/2015/day/23#part2)
+
 [Link to Previous Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2015/day23/part1.md)
 
 ## Summary

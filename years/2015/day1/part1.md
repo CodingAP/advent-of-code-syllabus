@@ -1,6 +1,7 @@
 # Advent of Code 2015 - Day 1, Part 1
 
 [Link to Puzzle](https://adventofcode.com/2015/day/1)
+
 [Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2015/day1/part2.md)
 
 ## Summary

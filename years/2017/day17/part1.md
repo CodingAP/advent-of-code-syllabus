@@ -1,6 +1,7 @@
 # Advent of Code 2017 - Day 17, Part 1
 
 [Link to Puzzle](https://adventofcode.com/2017/day/17)
+
 [Link to Next Part](https://github.com/CodingAP/unofficial-aoc-syllabus/blob/main/years/2017/day17/part2.md)
 
 ## Summary
