@@ -54,6 +54,9 @@ Finally, as mentioned before, there will be some files that may be included with
 - If the input takes longer than 30 seconds to run, it is either intentional, and it will solve pretty soon, or you have done something wrong. Most of the time, it is the latter, so do some testing to see what is wrong.
 - If all else fails, either take a break and come back to it later, or get some help. The subreddit is a great place to ask, and what this syllabus tries to help with.
 
+## Status
+Currently, there are no explanations on any of the puzzles.
+
 ## Table of Contents
 
 ### 2020
